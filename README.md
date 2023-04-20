@@ -1,3 +1,5 @@
+![Alt text](https://raw.githubusercontent.com/z3n70/Dirbuster-Ruby/main/dirbuster-ruby.png?raw=true "dirbuster-ruby")
+
 # DirBuster Ruby
 
 DirBuster-Ruby is a directory brute-force tool written in Ruby. It is a console application that takes a target URL and a wordlist of directory paths as input, and then scans the target server for directories that match the paths in the wordlist.
